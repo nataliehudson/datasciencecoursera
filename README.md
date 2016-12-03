@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repo for the Data Science Specialization on Coursera
+My projects for the Data Science Specialization on Coursera
