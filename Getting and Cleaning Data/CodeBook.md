@@ -44,6 +44,7 @@ The first two columns in the "averages" table, "activity" and "subject", indicat
 The remaining 66 columns are each the average of a mean or standard deviation of a measurement provided in the train and test data sets. These columns are named by replacing any punctuation in the original mean/std column name with periods (replacing multiple consecutive punctuation marks with a single period), then prepending "avg." to the column name.
 
 Here is the complete list of column names in "averages":
+
     activity
     subject
     avg.tBodyAcc.mean.X
